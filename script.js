@@ -34,7 +34,7 @@ const slides = [
         text: "Building connections that matter.",
       },
     {
-      image: "url('tech.jpeg')",
+      image: "url('about.jpeg')",
       subheading: "Technology",
       heading: "DISCOVER NEW SOLUTIONS",
       text: "Providing cutting-edge solutions for your business.",
